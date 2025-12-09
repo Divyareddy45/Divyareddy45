@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Aruna Rajeswari ✨</h1>
+<h1 align="center">✨ Hi, I'm  Divya Singireddy ✨</h1>
 
 <p align="center">
   <b>Data Analyst | Python | SQL | Power BI | Tableau | Excel | M.Sc Data Science</b>
