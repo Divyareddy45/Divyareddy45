@@ -97,6 +97,12 @@ A machine learning model to predict heart disease risk using classification algo
 ### 🧠 [Heart Disease Prediction – Notebook Version](https://github.com/Divyareddy45/Heart-Disease_prediction_project)
 Jupyter Notebook containing data preprocessing, EDA, model building, and performance evaluation.
 
+### 💳 [BNPL Customer Insights & Risk Analysis](https://github.com/Divyareddy45/Buy-Now-Pay-Later-)
+An end-to-end BNPL analytics project featuring Python ETL pipelines, SQL insights, and Power BI dashboards for customer risk segmentation and repayment behavior analysis.
+
+
+
+
 
 
 ---
