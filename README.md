@@ -91,22 +91,13 @@ I enjoy:
 ---
 
 ## ⭐ Featured Projects
+### ❤️ [Heart Attack Risk Prediction Model]([git@github.com:Divyareddy45/Heart-Disease_prediction_project.git](https://github.com/Divyareddy45/Heart-Disease_prediction_project.git))
+Predicting heart attack risk using machine learning algorithms with 85% accuracy.
 
-### ❤️ Heart Attack Risk Prediction Model 
-gh repo clone Divyareddy45/Heart-Disease_prediction_project
-**Tools:** Python, Pandas, NumPy, Scikit-learn  
-**Impact:** Achieved **85% accuracy**, enabling early health-risk detection  
-**Methods:** EDA, Logistic Regression, Random Forest  
+### 🍽️ [Restaurant Recommendation & Analysis Dashboard]([https://github.com/YOUR_USERNAME/REPO_NAME](https://github.com/Divyareddy45/Restaurant_project.git))
+Tableau dashboard with insights into customer preferences, booking trends, and location hotspots.
 
-### 🍽️ Restaurant Recommendation & Analysis Dashboard  
-**Tools:** Tableau, SQL, Excel  
-**Impact:** Helped identify customer preferences & booking trends for strategic planning  
-**Highlights:** Multi-city analysis, cuisine trends, peak demand insights  
 
-### 🏥 Insurance Data Analysis  
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-**Impact:** Identified major cost drivers such as BMI & smoking  
-**Highlights:** Correlation analysis, heatmaps, demographic insights  
 
 ---
 
