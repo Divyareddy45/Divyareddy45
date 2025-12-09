@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm  Divya Singireddy ✨</h1>
 
 <p align="center">
-  <b>Data Analyst | Python | SQL | Power BI | Tableau | Excel | M.Sc Data Science</b>
+  <b>Data Analyst | Python | SQL | Power BI | Tableau | Excel | M.Sc Data analytics</b>
 </p>
 
 ## 🚀 About Me
