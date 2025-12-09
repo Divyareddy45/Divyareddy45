@@ -94,11 +94,15 @@ I enjoy:
 ### ❤️ [Heart Disease Prediction using Machine Learning (Python)](https://github.com/Divyareddy45/Heart-Disease_prediction_project)
 A machine learning model to predict heart disease risk using classification algorithms and exploratory data analysis.
 
-### 🧠 [Heart Disease Prediction – Notebook Version](https://github.com/Divyareddy45/Heart-Disease_prediction_project)
-Jupyter Notebook containing data preprocessing, EDA, model building, and performance evaluation.
+### 🍽️ [Restaurant Recommendation & Analysis Dashboard](https://github.com/Divyareddy45/Restaurant_project)
+An interactive analytics project that explores restaurant trends across multiple cities, analysing cuisine popularity, booking patterns, and location hotspots. Built using SQL, Excel, and Tableau to deliver data-driven restaurant recommendations and insights.
 
 ### 💳 [BNPL Customer Insights & Risk Analysis](https://github.com/Divyareddy45/Buy-Now-Pay-Later-)
 An end-to-end BNPL analytics project featuring Python ETL pipelines, SQL insights, and Power BI dashboards for customer risk segmentation and repayment behavior analysis.
+
+### 📊 [East Africa Financial Analysis Project](https://github.com/Divyareddy45/East-Africa-Financial-Analysis)
+A data analysis project exploring financial inclusion across East African countries. It includes data cleaning, SQL analytics, and visualisations to examine income distribution, banking access, and economic trends.
+
 
 
 
