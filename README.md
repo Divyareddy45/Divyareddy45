@@ -103,6 +103,9 @@ An end-to-end BNPL analytics project featuring Python ETL pipelines, SQL insight
 ### 📊 [East Africa Financial Analysis Project](https://github.com/Divyareddy45/East-Africa-Financial-Analysis)
 A data analysis project exploring financial inclusion across East African countries. It includes data cleaning, SQL analytics, and visualisations to examine income distribution, banking access, and economic trends.
 
+### 🚚 [Fleet Management Analytics Project](https://github.com/Divyareddy45/Fleet-Management-Analytics-Project.git)
+
+An end-to-end data analytics project focused on evaluating fleet vehicle performance, maintenance patterns, and operational efficiency. It includes Python-based ETL, SQL analytics, and Power BI dashboards to uncover insights on fuel efficiency, maintenance cost trends, driver impact, and overall fleet health.
 
 
 
