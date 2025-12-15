@@ -107,6 +107,9 @@ A data analysis project exploring financial inclusion across East African countr
 
 An end-to-end data analytics project focused on evaluating fleet vehicle performance, maintenance patterns, and operational efficiency. It includes Python-based ETL, SQL analytics, and Power BI dashboards to uncover insights on fuel efficiency, maintenance cost trends, driver impact, and overall fleet health.
 
+### 📊 [Global Sales Analytics Dashboard (Power BI)](https://github.com/Divyareddy45/Global_Sales_Project.git)
+An end-to-end Power BI project using Star Schema modeling to analyze global sales, profitability, returns, and time-based trends through interactive dashboards.
+
 
 
 
