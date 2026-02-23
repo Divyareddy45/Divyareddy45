@@ -92,7 +92,7 @@ I enjoy:
 
 ## ⭐ Featured Projects
 
-### 📊 Participants Performance – Data Cleaning & Power BI Dashboard (Power BI & Python)(https://github.com/Divyareddy45/Participants_Performance_Deep_Dive.git)
+### 📊 [Participants Performance – Data Cleaning & Power BI Dashboard (Power BI & Python)](https://github.com/Divyareddy45/Participants_Performance_Deep_Dive.git)
 An end-to-end analytics project built on a large real-world dataset (1 lakh+ rows and 64 columns), focusing on data validation, data quality improvement and interactive Power BI visualisation. The project covers comprehensive data profiling, cleaning and validation using Python, followed by a single-page Power BI dashboard to analyse participant performance, completion, gender split and programme-wise insights.
 
 
